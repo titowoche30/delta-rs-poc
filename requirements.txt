@@ -1,0 +1,4 @@
+deltalake==0.10.0
+pandas==2.0.3
+duckdb==0.8.1
+s3fs==2023.6.0
